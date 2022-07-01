@@ -1,0 +1,119 @@
+body{
+    background-color: rgba(128, 128, 128, 0.158);
+}
+
+.father{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    height: 100vh;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img{
+    width: 700px;
+    height: 700px;
+}
+#pic{
+    border-radius: 50%;
+  
+}
+
+.borda{
+    border: 1px solid rgba(128, 128, 128, 0.603);
+    height: 380px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.profile{
+    margin-left: 20px;
+
+}
+
+.img{
+    margin-top: 20px;
+}
+
+.caixa2{
+    height: 100px;
+    width: 500px;
+    border: 1px solid rgba(128, 128, 128, 0.603);
+    text-align: center;
+    margin-top: 20px;
+    background-color: white;
+}
+
+.get-app{
+    text-align: center;
+}
+
+.instagram-login{
+    background-color: #0095f6;
+    color:#ffffffff;
+    padding: 10px;
+    border-radius:4px;
+
+}
+
+.instagram-logout{
+    color: #0095f6;
+
+}
+
+.not-account{
+    color: rgb(160, 160, 160);
+}
+
+.link-blue{
+    color:#0095f6;
+}
+
+.px{
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+    
+}
+
+.get-app{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 1.3rem 0;
+ }
+
+.botao{
+    height: 3rem;
+    width: 10rem;
+    background-size: cover;
+
+}
+
+.botaos{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#apple{
+    height: 50px;
+    width: 175px;
+
+}
+
+#gp{
+    height: 50px;
+    width: 175px;
+}
+
+.apple{
+    margin-right: 60px;
+}
